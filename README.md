@@ -30,3 +30,7 @@ git clone https://github.com/DegreeJr/PSPSPSC
 cd  PSPSPSC/
 sudo python3 your_script_name.py
 ```
+
+##Demo
+[![Alt Text](img/image_2024-08-30_135453556.png)](https://youtu.be/mychEGUalm8)
+
