@@ -28,7 +28,7 @@ pip install scapy
 ```bash
 git clone https://github.com/DegreeJr/PSPSPSC
 cd  PSPSPSC/
-sudo python3 your_script_name.py
+sudo python3 pspspsc.py
 ```
 
 ##Demo
