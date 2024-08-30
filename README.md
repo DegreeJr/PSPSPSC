@@ -15,6 +15,9 @@ PSPSPSC is a comprehensive tool aimed at both improving network security and pro
 To run this tool, you need to have Python 3.x installed along with the following Python libraries:
 - `scapy`
 - `ipaddress`
+- `concurrent.futures`
+- `threading`
+- `re`
 
 You can install the required libraries using pip:
 ```bash
@@ -23,4 +26,13 @@ pip install scapy
 
 ## Running the Tool
 ```bash
+git clone https://github.com/DegreeJr/PSPSPSC
+```
+
+```bash
+cd  PSPSPSC/
+```
+
+```bash
 sudo python3 your_script_name.py
+```
