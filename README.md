@@ -27,12 +27,6 @@ pip install scapy
 ## Running the Tool
 ```bash
 git clone https://github.com/DegreeJr/PSPSPSC
-```
-
-```bash
 cd  PSPSPSC/
-```
-
-```bash
 sudo python3 your_script_name.py
 ```
